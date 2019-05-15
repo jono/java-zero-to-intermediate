@@ -38,6 +38,13 @@ GSON
 https://github.com/google/gson
 
 
+#### Other
+
+Lombok - Speeds up development by generating class boilerplate via annoations
+
+https://projectlombok.org/features/all
+
+
 
 ### Resources 
 
