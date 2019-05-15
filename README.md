@@ -1,2 +1,50 @@
-# java-zero-to-intermediate
-A list of resources that help you get from zero to intermediate in Java
+# Zero to Intermediate (in Java!)
+
+## Table of Contents
+
+* The Language
+  * The Basics
+  * Advanced Concepts 
+    * Concurrency 
+    * Generics
+  * Design Patterns
+ * Libraries (industry standard)
+ * Resources
+ * Books 
+ 
+ 
+### The Language
+#### The Basics
+
+https://learnxinyminutes.com/docs/java
+ 
+    
+### Libraries 
+
+#### Common Libs
+
+Google Core Libraries 
+https://github.com/google/guava
+
+Apache Commons
+https://commons.apache.org
+
+#### Serialization
+
+Jackson 
+https://github.com/FasterXML/jackson
+
+GSON 
+https://github.com/google/gson
+
+
+
+### Resources 
+
+#### Web 
+
+##### Spring Guides / Resources
+
+https://spring.io/guides
+
+https://www.baeldung.com
