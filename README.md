@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * The Language
-  * The Basics
+  * Basics
   * Advanced Concepts 
     * Concurrency 
     * Generics
@@ -14,7 +14,7 @@
  
  
 ### The Language
-#### The Basics
+#### Basics
 
 https://learnxinyminutes.com/docs/java
  
