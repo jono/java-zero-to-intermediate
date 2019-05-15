@@ -55,3 +55,10 @@ https://projectlombok.org/features/all
 https://spring.io/guides
 
 https://www.baeldung.com
+
+
+#### Misc
+
+Need to find a library but don't know where to look? Try these:
+
+https://github.com/akullpp/awesome-java
